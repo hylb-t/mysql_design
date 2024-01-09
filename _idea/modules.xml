@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/company_info/company_info.iml" filepath="$PROJECT_DIR$/company_info/company_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graduate_information/graduate_information.iml" filepath="$PROJECT_DIR$/graduate_information/graduate_information.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql_design.iml" filepath="$PROJECT_DIR$/mysql_design.iml" />
+    </modules>
+  </component>
+</project>

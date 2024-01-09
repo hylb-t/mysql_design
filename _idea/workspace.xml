@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f84cc28-d5ee-4586-8eea-e985a22b05f0" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ISF7pdpZHNSJnIR24eeTA8KlDT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/soft/Java/IDEA/workspace/mysql_design/graduate_information/lib&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;leetcode.id&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\soft\Java\IDEA\workspace\mysql_design\graduate_information\lib" />
+      <recent name="D:\soft\Java\IDEA\workspace\mysql_design\company_info\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.JdbcUtil">
+    <configuration name="JdbcUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graduate_information.JdbcUtil" />
+      <module name="graduate_information" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graduate_information.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CURD.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="graduate_information" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graduate_information.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="graduate_information" />
+      <option name="MAIN_CLASS_NAME" value="graduate_information.CURD" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CURD.testDeletePost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="graduate_information" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graduate_information.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="graduate_information" />
+      <option name="MAIN_CLASS_NAME" value="graduate_information.CURD" />
+      <option name="METHOD_NAME" value="testDeletePost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CURD.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="graduate_information" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graduate_information.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="graduate_information" />
+      <option name="MAIN_CLASS_NAME" value="graduate_information.CURD" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CURD.testInsertPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="graduate_information" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graduate_information.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="graduate_information" />
+      <option name="MAIN_CLASS_NAME" value="graduate_information.CURD" />
+      <option name="METHOD_NAME" value="testInsertPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.JdbcUtil" />
+        <item itemvalue="JUnit.CURD.testDeletePost" />
+        <item itemvalue="JUnit.CURD.testInsertPost" />
+        <item itemvalue="JUnit.CURD.testInsert" />
+        <item itemvalue="JUnit.CURD.testDelete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="2f84cc28-d5ee-4586-8eea-e985a22b05f0" name="变更" comment="" />
+      <created>1670166912599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670166912599</updated>
+      <workItem from="1670166914021" duration="18000" />
+      <workItem from="1670166961233" duration="3000" />
+      <workItem from="1670169104630" duration="14000" />
+      <workItem from="1670169142992" duration="309000" />
+      <workItem from="1670170342545" duration="613000" />
+      <workItem from="1670171453139" duration="1565000" />
+      <workItem from="1670173741737" duration="181000" />
+      <workItem from="1670173934355" duration="644000" />
+      <workItem from="1670174962489" duration="302000" />
+      <workItem from="1670175392283" duration="147000" />
+      <workItem from="1670223252116" duration="195000" />
+      <workItem from="1670224106015" duration="13000" />
+      <workItem from="1670224924100" duration="605000" />
+      <workItem from="1670309991216" duration="644000" />
+      <workItem from="1670408243888" duration="14000" />
+      <workItem from="1670578025640" duration="6000" />
+      <workItem from="1670578124128" duration="95000" />
+      <workItem from="1670941931384" duration="602000" />
+      <workItem from="1671032163046" duration="9000" />
+      <workItem from="1671952829717" duration="218000" />
+      <workItem from="1672022026095" duration="445000" />
+      <workItem from="1672039218166" duration="304000" />
+      <workItem from="1672039886980" duration="201000" />
+      <workItem from="1672068967075" duration="34000" />
+      <workItem from="1672070521630" duration="32000" />
+      <workItem from="1672072039028" duration="57000" />
+      <workItem from="1672072310099" duration="39000" />
+      <workItem from="1672126554985" duration="2139000" />
+      <workItem from="1672149763141" duration="476000" />
+      <workItem from="1672158828455" duration="759000" />
+      <workItem from="1672159637502" duration="5000" />
+      <workItem from="1672161747049" duration="365000" />
+      <workItem from="1672191850415" duration="868000" />
+      <workItem from="1672200556206" duration="22100000" />
+      <workItem from="1672246278668" duration="628000" />
+      <workItem from="1672275360699" duration="7855000" />
+      <workItem from="1672296098006" duration="807000" />
+      <workItem from="1672333926560" duration="57000" />
+      <workItem from="1672378466602" duration="569000" />
+      <workItem from="1672379049528" duration="1225000" />
+      <workItem from="1672397228375" duration="11000" />
+      <workItem from="1672768405935" duration="2000" />
+      <workItem from="1672819146584" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+
+a
+java:S1192,"FDefine a constant instead of duplicating this literal "B2107" 3 times.(ÇûìÍøÿÿÿÿ
+e
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+e
+java:S2095""OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+e
+java:S2095B"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+e
+java:S2095]"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+e
+java:S2095Q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+@	java:S106"+Replace this use of System.out by a logger.(úÄî¯
+@	java:S106%"+Replace this use of System.out by a logger.(úÄî¯
+T
+java:S18545"9Remove this useless assignment to local variable "count".(ÿÕ¸œúÿÿÿÿ
+E
+java:S14815"*Remove this unused "count" local variable.(ÿÕ¸œúÿÿÿÿ
+Q	java:S1256"<This block of commented-out lines of code should be removed.(ÀµÄ
+@	java:S106G"+Replace this use of System.out by a logger.(úÄî¯
+@	java:S106T"+Replace this use of System.out by a logger.(úÄî¯
+@	java:S106k"+Replace this use of System.out by a logger.(Ãº‘«

@@ -1,0 +1,59 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS布局</title>
+    <style type="text/css">
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: aquamarine;
+        }
+
+        div {
+            position: relative;
+        }
+
+        #div_top {
+            background-color: lightblue;
+            height: 20%;
+        }
+
+        #div_left {
+            background-color: yellow;
+            height: 80%;
+            width: 15%;
+            float: left;
+        }
+
+        #div_main {
+            background-color: white;
+            height: 70%;
+            width: 85%;
+            float: left;
+        }
+
+        #div_bottom {
+            background-color: cadetblue;
+            height: 10%;
+            width: 85%;
+            float: left;
+        }
+
+        #div_container {
+            height: 100%;
+            width: 80%;
+            border: 0px solid red;
+            margin-left: 10%;
+            float: left;
+        }
+    </style>
+</head>
+<body>
+<div id="div_container">
+    <div id="div_top">div_top</div>
+    <div id="div_left">div_left</div>
+    <div id="div_main">div_main</div>
+    <div id="div_bottom">div_bottom</div>
+</div>
+</body>
+</html>

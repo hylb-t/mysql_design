@@ -1,0 +1,16 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(²ŠƒÚÿÿÿÿÿ8£ÜÌ­€1
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(²ŠƒÚÿÿÿÿÿ8­ÜÌ­€1
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+e
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+N
+java:S1874,"3Remove this use of "newInstance"; it is deprecated.(©Øˆéøÿÿÿÿ
+B
+java:S30112",This accessibility update should be removed.(™ü•™
+A
+java:S30113",This accessibility bypass should be removed.(ÚÃÖo
+Y
+java:S1155A">Use isEmpty() to check whether the collection is empty or not.(â×—˜ÿÿÿÿÿ

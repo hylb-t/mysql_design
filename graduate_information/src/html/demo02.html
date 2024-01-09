@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表格标签的学习</title>
+</head>
+<body>
+<table border="1" width="600" cellspacing="0" cellpadding="4">
+    <tr align="center">
+        <th>学号</th>
+        <th>姓名</th>
+        <th>专业</th>
+        <th>学院</th>
+    </tr>
+    <tr align="center">
+        <td>B210401</td>
+        <td>张三</td>
+        <td>数据科学与大数据技术</td>
+        <td>计算机学院</td>
+    </tr>
+    <tr align="center">
+        <td>B210402</td>
+        <td>李四</td>
+        <td>物联网</td>
+        <td>计算机学院</td>
+    </tr>
+    <tr align="center">
+        <td>B210403</td>
+        <td>王五</td>
+        <td>自动化</td>
+        <td>电气学院</td>
+    </tr>
+    <tr align="center">
+        <td>B210404</td>
+        <td>赵六</td>
+        <td>学前教育</td>
+        <td>教音学院</td>
+    </tr>
+</table>
+<hr/>
+<table border="1" cellspacing="0" cellpadding="4" width="600>">
+    <tr align="center">
+        <th>名称</th>
+        <th>单价</th>
+        <th>数量</th>
+        <th>小计</th>
+        <th>操作</th>
+    </tr>
+    <tr align="center">
+        <td>苹果</td>
+        <td rowspan="2">5</td>
+        <td>20</td>
+        <td>100</td>
+        <td><img src="del.jpg" width="24" height="24"/></td>
+    </tr>
+    <tr align="center">
+        <td>菠萝</td>
+        <td>15</td>
+        <td>45</td>
+        <td><img src="del.jpg" width="24" height="24"/></td>
+    </tr>
+    <tr align="center">
+        <td>西瓜</td>
+        <td>6</td>
+        <td>6</td>
+        <td>36</td>
+        <td><img src="del.jpg" width="24" height="24"/></td>
+    </tr>
+    <tr align="center">
+        <td>总计</td>
+        <td colspan="4">181</td>
+    </tr>
+</table>
+</body>
+</html>
+<!--
+表格      table
+行        tr
+列        td
+表头列    th
+table中有如下属性(已经淘汰  但最好还是了解一下)
+border: 表格边框的粗细
+width: 表格的宽度
+cellspacing: 单元格填充
+
+tr中有一个属性：align -> center    left    right
+
+rowspan  行合并
+colspan  列合并
+
+<hr/>  在HTML页面中创建一条水平线
+-->
